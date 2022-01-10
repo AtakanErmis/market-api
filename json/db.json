@@ -18005,5 +18005,9 @@
     { "name": "Terminal", "slug": "Terminal", "itemCount": 2 },
     { "name": "Pipe", "slug": "Pipe", "itemCount": 2 },
     { "name": "Walrus", "slug": "Walrus", "itemCount": 2 }
+  ],
+  "itemTypes": [
+    { "name": "mug", "slug": "mug" },
+    { "name": "shirt", "slug": "shirt" }
   ]
 }
