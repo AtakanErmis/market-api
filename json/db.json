@@ -1,5 +1,6 @@
 {
   "companies": [
+    { "name": "All", "slug": "", "itemCount": 1740 },
     {
       "slug": "Dickens-Franecki",
       "name": "Dickens - Franecki",
@@ -17646,6 +17647,7 @@
     }
   ],
   "tags": [
+    { "name": "All", "slug": "", "itemCount": 1740 },
     { "name": "Trees", "slug": "Trees", "itemCount": 210 },
     { "name": "Beach", "slug": "Beach", "itemCount": 88 },
     { "name": "Ocean", "slug": "Ocean", "itemCount": 258 },
