@@ -2,7 +2,7 @@
 
 json-server api for a simple product listing app for Getir assignment.
 
-Live API Server: https://the-market-api.herokuapp.com/
+Live API Server: https://the-market-backend.herokuapp.com/
 
 ## How to run locally
 
